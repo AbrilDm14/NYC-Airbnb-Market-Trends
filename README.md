@@ -1,5 +1,5 @@
 # NYC Airbnb Market Trends 
-
+ 
 This project aims to take a closer look at the New York Airbnb market, by attempting to answer key questions including:
 
 1. What is the average price per night of an Airbnb listing in NYC?
