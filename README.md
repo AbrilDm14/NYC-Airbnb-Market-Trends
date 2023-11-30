@@ -1,4 +1,4 @@
-# NYC Airbnb Market Trends    
+# NYC Airbnb Market Trends
 
 This project aims to take a closer look at the New York Airbnb market, by attempting to answer key questions including:
 
